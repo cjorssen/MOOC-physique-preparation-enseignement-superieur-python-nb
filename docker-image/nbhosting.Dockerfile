@@ -51,3 +51,6 @@ RUN conda update -y numpy pandas
 # install plotly for w7
 RUN pip install plotly
 
+# --------
+# install scikit-image
+RUN pip install scikit-image
