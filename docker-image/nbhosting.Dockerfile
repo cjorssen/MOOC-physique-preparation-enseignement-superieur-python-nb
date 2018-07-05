@@ -54,3 +54,7 @@ RUN pip install plotly
 # --------
 # install scikit-image
 RUN pip install scikit-image
+
+# --------
+# install geopy
+RUN pip install geopy
