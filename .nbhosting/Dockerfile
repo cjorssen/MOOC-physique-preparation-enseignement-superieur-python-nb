@@ -1,6 +1,5 @@
 # --------
-FROM nbhosting/scipy-notebook
-
+FROM nbhosting/scipy-notebook:latest
 
 RUN true \
       # the crux of the matter
