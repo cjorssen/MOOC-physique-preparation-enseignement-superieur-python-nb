@@ -1,3 +1,16 @@
 static-mappings:
   - source: media
     destination: media
+
+
+tracks:
+  - name: "Physique"
+    id: physique
+    description: "Mooc physique"
+    sections:
+    - name: "Mécanique"
+      notebooks:
+      - mecanique/*.ipynb
+    - name: "Ondes"
+      notebooks:
+      - ondes/*.ipynb
