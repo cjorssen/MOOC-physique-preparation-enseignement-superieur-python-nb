@@ -10,7 +10,7 @@ tracks:
     sections:
     - name: "Mécanique"
       notebooks:
-      - mecanique/*.ipynb
+      - mecanique/*.md
     - name: "Ondes"
       notebooks:
-      - ondes/*.ipynb
+      - ondes/*.md
